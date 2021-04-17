@@ -1,3 +1,15 @@
 =head1 NAME perlmentalmod
 
 Extra set of C<perldoc>s about perl based thought exercises.
+
+=head1 SYNOPSIS
+
+  perldoc perlmentalmod
+
+=head1 DESCRIPTION
+
+Thoughtful things.
+
+=head1 COPYRIGHT AND LICENSE
+
+idk perl
